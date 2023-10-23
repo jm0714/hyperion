@@ -1,0 +1,63 @@
+/* styles.css */
+
+/* set font, margin, padding, and background color for the entire body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(293, 100%, 84%); /* pastel purple background */
+  }
+  
+  /* style for the header section */
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #cc69c4; /* light purple header background */
+    color: rgb(0, 0, 0); /* black font color */
+  }
+  
+  /* style for the header's h1 element */
+  header h1 {
+    margin: 0;
+  }
+  
+  /* style for the header's p element (bio) */
+  header p {
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  
+  /* style for the address (contact details) */
+  address {
+    font-size: 14px;
+  }
+  
+  /* style for the content sections */
+  section {
+    padding: 20px;
+    background-color: #ffffff; /* white section background */
+    margin: 20px;
+    border-radius: 5px;
+  }
+  
+  /* style for h2 elements (section titles) */
+  h2 {
+    margin-top: 0;
+  }
+  
+  /* style for unordered lists */
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  /* style for list items */
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* style for links */
+  a {
+    text-decoration: none;
+    color: #007bff; /* blue link color */
+  }  
