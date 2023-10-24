@@ -8,7 +8,7 @@ Fae Paths is a web application that showcases a list of magical spells. It provi
 
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Screenshot](#Screenshot)
+- [Screenshots](#Screenshots)
 - [Credits](#Credits)
 
 **Installation**
@@ -35,10 +35,10 @@ open spell_list.html
 
 Once you've installed the project, open the HTML file (index.html) in your web browser. You will be presented with a list of magical spells from the Fae Paths universe.
 
-**Screenshot**
-<a name="Screenshot"></a>
+**Screenshots**
+<a name="Screenshots"></a>
 
-Here's a screenshot of the Fae Paths - Spell List web page in action:
+Here's are screenshots of the Fae Paths - Spell List web page in action:
 
 ![Spell Details](screenshots/gitscr.jpg)
 ![Spell Details](screenshots/gitscr2.jpg)
