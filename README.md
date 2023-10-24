@@ -38,7 +38,7 @@ Once you've installed the project, open the HTML file (index.html) in your web b
 **Screenshots**
 <a name="Screenshots"></a>
 
-Here's are screenshots of the Fae Paths - Spell List web page in action:
+Here are screenshots of the Fae Paths - Spell List web page in action:
 
 ![Spell Details](screenshots/gitscr.jpg)
 ![Spell Details](screenshots/gitscr2.jpg)
