@@ -6,10 +6,10 @@ Fae Paths is a web application that showcases a list of magical spells. It provi
 
 **Table of Contents**
 
-[Installation] (#Installation)
-[Usage] (#Usage)
-[Screenshots] (#Screenshots)
-[Credits] (#Credits)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Screenshot](#Screenshot)
+- [Credits](#Credits)
 
 **Installation**
 <a name="Installation"></a>
