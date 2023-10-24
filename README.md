@@ -39,6 +39,7 @@ Here's a screenshot of the Fae Paths - Spell List web page in action:
 
 ![Spell Details](screenshots/gitscr.jpg)
 ![Spell Details](screenshots/gitscr2.jpg)
+
 **Spell Details**
 
 Details of a specific spell, including its name, description, and an image.
