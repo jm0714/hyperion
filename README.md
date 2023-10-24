@@ -15,18 +15,19 @@ Fae Paths is a web application that showcases a list of magical spells. It provi
 <a name="Installation"></a>
 
 To run this project locally, follow these steps:
+**don't forget about the css file!!**
 
 **Clone the repository to your local machine using Git:**
 
 git clone https://github.com/yourusername/fae-paths-spell-list.git
 
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 cd fae-paths-spell-list
 
 
-Open the project's HTML file in your preferred web browser:
+**Open the project's HTML file in your preferred web browser:**
 
 open spell_list.html
 
