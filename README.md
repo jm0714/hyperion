@@ -19,9 +19,11 @@ To run this project locally, follow these steps:
 
 git clone https://github.com/yourusername/fae-paths-spell-list.git
 
+
 Navigate to the project directory:
 
 cd fae-paths-spell-list
+
 
 Open the project's HTML file in your preferred web browser:
 
